@@ -2,4 +2,5 @@ theme: minima
 title: Welcome to my 1st site!
 author: Linga41
 description: This website is for logging progress through GitHub Pages, more to come.
+future: true
 
